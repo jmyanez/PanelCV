@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d6b72b8-57ed-4ad8-ab6a-a9a53047178c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contact.html" afterDir="false" />
-    </list>
+    <list default="true" id="2d6b72b8-57ed-4ad8-ab6a-a9a53047178c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +42,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="968" />
+          <entry key="html" value="1037" />
           <entry key="txt" value="165" />
           <entry key="yml" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="968" />
+          <entry key="HTML" value="1037" />
           <entry key="PLAIN_TEXT" value="165" />
           <entry key="YAML" value="66" />
         </counts>
@@ -77,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+            <state relative-caret-position="465">
+              <caret line="83" column="47" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -565,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+        <state relative-caret-position="465">
+          <caret line="83" column="47" selection-start-line="83" selection-start-column="40" selection-end-line="83" selection-end-column="47" />
         </state>
       </provider>
     </entry>
